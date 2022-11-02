@@ -13,11 +13,6 @@
 
 ## 🚀 Languages :
 
-<p align="left">
-    <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>
-    <img src="https://user-images.githubusercontent.com/33158051/103466606-760a4000-4d14-11eb-9941-2f3d00371471.png" width="75" height="43"/>
-    <br/>
-</p>
 
 <p align="left">    
     <img src="https://img.icons8.com/color/48/000000/kotlin.png"/>
@@ -26,7 +21,7 @@
 <p align="left">    
     <img src="https://img.icons8.com/color/48/000000/nodejs.png"/>
     <img src="https://img.icons8.com/color/48/000000/javascript.png"/>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/240px-Angular_full_color_logo.svg.png" width="45" height="45"/>
+    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.logo.wine%2Flogo%2FReact_(web_framework)&psig=AOvVaw0hqzmxDSItQUCvz30jEiE_&ust=1667481133156000&source=images&cd=vfe&ved=0CAkQjRxqFwoTCNC_vbbJj_sCFQAAAAAdAAAAABAE" width="45" height="45"/>
 </p>
 
 <p align="left">
