@@ -50,9 +50,9 @@
 ## 📊 My Github Stats
 
   <br/>
-    <a href="https://github.com/sanchezemir/github-readme-stats"><img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=sanchezemir&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/LeanAlvarez/github-readme-stats"><img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=LeanAlvarez&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
     
-  <a href="https://github.com/sanchezemir/github-readme-stats"><img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanchezemir&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/LeanAlvarez/github-readme-stats"><img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeanAlvarez&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 <br/>
@@ -60,11 +60,11 @@
 
 ## Connect with me:
 <p align="left">
-<a href = "https://www.linkedin.com/in/emir-sanchez/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://www.linkedin.com/in/leandro-alvarez/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 </p>
 
 ## ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=sanchezemir">
+    <img src="https://komarev.com/ghpvc/?username=LeanAlvarez">
 </a>
-<a href="https://github.com/SubhamRaoniar28?tab=followers"><img src="https://img.shields.io/github/followers/sanchezemir?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/SubhamRaoniar28?tab=followers"><img src="https://img.shields.io/github/followers/LeanAlvarez?label=Followers&style=social" alt="GitHub Badge"></a>
