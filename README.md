@@ -21,7 +21,7 @@
 <p align="left">    
     <img src="https://img.icons8.com/color/48/000000/nodejs.png"/>
     <img src="https://img.icons8.com/color/48/000000/javascript.png"/>
-    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.logo.wine%2Flogo%2FReact_(web_framework)&psig=AOvVaw0hqzmxDSItQUCvz30jEiE_&ust=1667481133156000&source=images&cd=vfe&ved=0CAkQjRxqFwoTCNC_vbbJj_sCFQAAAAAdAAAAABAE" width="45" height="45"/>
+    <img src="https://www.logo.wine/a/logo/React_(web_framework)/React_(web_framework)-Logo.wine.svg" width="45" height="45"/>
 </p>
 
 <p align="left">
