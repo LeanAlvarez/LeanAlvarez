@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently Full Stack Dev and Android Dev
 
-- 👨‍💻 All of my projects are available at **[[My Portfolio](#https://lealvarez.com/)]**
+- 👨‍💻 All of my projects are available at **[My Portfolio](#)]**
 
 
 ## 🚀 Languages :
