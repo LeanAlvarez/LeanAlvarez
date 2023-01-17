@@ -59,7 +59,7 @@
 </p>
 
 ## ❤ Views and Followers
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+<a href="https://github.com/LeanAlvarez">
     <img src="https://komarev.com/ghpvc/?username=LeanAlvarez">
 </a>
-<a href="https://github.com/SubhamRaoniar28?tab=followers"><img src="https://img.shields.io/github/followers/LeanAlvarez?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/LeanAlvarez?tab=followers"><img src="https://img.shields.io/github/followers/LeanAlvarez?label=Followers&style=social" alt="GitHub Badge"></a>
