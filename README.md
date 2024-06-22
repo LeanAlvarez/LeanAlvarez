@@ -39,7 +39,6 @@
     <img src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png"/>
     <img src="https://img.icons8.com/color/48/000000/android-studio--v3.png"/>
     <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png"/>
-    <img src="https://img.icons8.com/color/48/000000/intellij-idea.png"/>
     <img src="https://img.icons8.com/color/48/000000/xcode.png"/>
 </p>
 <br/>
