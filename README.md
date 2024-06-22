@@ -1,12 +1,12 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Lean Alvarez</h1>
-<h3 align="center">Android and FullStack Developer.</h3>
+<h3 align="center">Mobile and NodeJs Developer.</h3>
 
 
 ## 🙋‍♂️ About Me
 
-- 🌱 I’m currently Full Stack Dev and Android Dev
+- 🌱 I’m currently Mobile Dev and NodeJs Dev
 
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://lealvarez.com/)**
 
@@ -16,6 +16,7 @@
 
 <p align="left">    
     <img src="https://img.icons8.com/color/48/000000/kotlin.png"/>
+    <img src="https://img.icons8.com/color/48/000000/swift.png"/>
 </p>
 
 <p align="left">    
