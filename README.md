@@ -16,7 +16,7 @@
 
 <p align="left">    
     <img src="https://img.icons8.com/color/48/000000/kotlin.png"/>
-    <img src="https://img.icons8.com/color/48/000000/swift.png"/>
+    <img src="https://img.icons8.com/color/48/000000/react-native.png"/>
     <img src="https://img.icons8.com/color/48/000000/django.png"/>
 
     
