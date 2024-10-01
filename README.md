@@ -1,12 +1,12 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Lean Alvarez</h1>
-<h3 align="center">Mobile and NodeJs Developer.</h3>
+<h3 align="center">FullStack Developer.</h3>
 
 
 ## 🙋‍♂️ About Me
 
-- 🌱 I’m currently Mobile Dev and NodeJs Dev
+- 🌱 I’m currently React Native and Django Dev
 
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://lealvarez.com/)**
 
