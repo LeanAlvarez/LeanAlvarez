@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🌱 I’m currently React Native and Django Dev
+- 🌱 I’m currently Android and Backend Dev
 
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://lealvarez.com/)**
 
